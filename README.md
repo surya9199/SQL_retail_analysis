@@ -1,2 +1,18 @@
-# SQL_retail_analysis
-Analyzed retail sales data using SQL to identify top-selling products, segment customers based on purchase quantity, and uncover behavior trends. Focused on product performance, customer segmentation, and loyalty insights to guide marketing and inventory decisions.
+# 📊 SQL Retail analysis project
+
+This project involves analyzing a sales dataset using **SQL queries** to extract meaningful business insights such as product performance, order patterns, and monthly growth trends.
+
+## 🛠 Tools Used
+- **SQL** (via MySQL)
+
+## 📌 Key Objectives
+- Analyze sales frequency of products
+- Determine monthly and yearly revenue trends
+- Identify top-performing items
+- Use aggregation, grouping, sorting, and filtering techniques
+
+## 📄 SQL Concepts Demonstrated
+- `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `LIMIT`
+- Aggregate functions like `COUNT()`, `SUM()`, `AVG()`
+- Joins between tables
+- Date formatting and filtering
